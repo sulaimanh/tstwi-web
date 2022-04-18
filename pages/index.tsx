@@ -191,7 +191,7 @@ export default function Home(): ReactElement {
               </div>
             </div>
           </div>
-          <div className="relative flex flex-col w-full lg:w-[25rem]">
+          <div className="relative flex flex-col w-full lg:w-[25rem] 2xl:w-[35rem]">
             <div className="flex justify-between w-full px-3 py-5 bg-white border-b border-gray-100">
               <H5>Name</H5>
               <H5>Icon</H5>
