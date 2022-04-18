@@ -52,6 +52,14 @@ export default function Home(): ReactElement {
                   </span>{' '}
                 </P>
                 <P>Built with TypeScript and TailwindCSS</P>
+                <P
+                  onClick={(): void => {
+                    window.open('https://www.npmjs.com/package/tstwi')
+                  }}
+                  className="p-2 text-indigo-500 bg-gray-200 cursor-pointer rounded-md w-max"
+                >
+                  npm install tstwi
+                </P>
               </div>
               <div className="w-full">
                 <H4 className="pb-2 mb-5 border-b border-gray-100">
