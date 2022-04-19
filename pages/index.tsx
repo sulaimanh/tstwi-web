@@ -38,7 +38,7 @@ export default function Home(): ReactElement {
         </div>
         <div className="flex flex-col justify-between w-full lg:flex-row">
           <div className="relative">
-            <div className="relative w-full h-screen px-1 py-5 pb-32 lg:fixed lg:overflow-y-scroll lg:w-[25rem]">
+            <div className="relative w-full px-1 py-5 lg:h-screen lg:pb-32 lg:fixed lg:overflow-y-scroll lg:w-[25rem]">
               <div className="pb-5">
                 <P>
                   Premium SVG icons from{' '}
