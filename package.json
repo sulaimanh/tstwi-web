@@ -16,7 +16,7 @@
     "next": "^12.1.5",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
-    "tstwi": "^0.1.0"
+    "tstwi": "^1.0.1"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.16.4",
